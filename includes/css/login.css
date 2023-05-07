@@ -1,0 +1,156 @@
+
+
+#form-login
+{
+   margin-top: 100px;
+   height: 67%;
+   background-color: rgb(20, 18, 18);
+   width: 32%;
+   border-radius: 10px ;
+   opacity: 10;
+  
+}
+#login-div
+{
+   position: absolute;
+   width: 100%; 
+   height: 800px;
+   opacity: 1;
+
+}
+#login-input                                                                
+{
+                                                                                /* login style */
+    position: relative;
+    top: 40%;
+    right: -15%;
+    margin-top:10% ;
+    width: 70%;
+    height: 9%;
+   
+}
+#login-p
+{
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    margin: 5% 10%;
+}
+
+#login-btn
+{
+    position: absolute;
+    margin: 15% 4.5%;
+    width: 21%;
+    height: 6%;
+}
+#signin-btn1 
+{
+    position: absolute;
+    top: 10%;
+    left: 34%;
+    width: 78px;
+    height: 40px;
+    background-color: red;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    font-size: 13x;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+#signin-form
+{
+    margin-top: 50px;
+   height: 75%;
+   background-color: rgb(20, 18, 18);
+   width: 32%;
+   border-radius: 10px ;
+   opacity: 10;
+   
+}
+
+#signin-input
+{
+    position: relative;
+    top: 23%;
+    right: -15%;
+    margin-top:10% ;
+    width: 70%;
+    height: 9%;
+    margin-right: 15%;
+}
+#login-label1
+{
+    color: white;
+    position:absolute;
+    margin:12% 21% ;
+    font-size:13px
+}
+#login-label2
+{
+    color: white;
+    position:absolute;
+    margin:15% 24% ;
+    font-size:13px;
+}
+#signin-p
+{                                             
+                                                                               /* signin style */
+    position: absolute;                                            
+    color: white;
+    font-size: 25px;
+    margin: 3% 12%;
+}
+#signin-div
+{
+    position: absolute;
+    width: 100%; 
+    height: 100%;
+    /* background-image: radial-gradient(circle ,rgb(22, 93, 156),black  ); */
+    opacity: 1;
+ 
+}
+#signin-btn
+{
+    position: absolute;
+    margin: 10% 4.5%;
+    width: 21%;
+    height: 6%;
+}
+
+#signin-label
+{
+    color: white;
+    position:absolute;
+    margin:7% 24% ;
+    font-size:13px
+}
+#signin-label1
+{
+    color: white;
+    position:absolute;
+    margin:10% 22% ;
+    font-size:13px
+}
+#signin-label2
+{
+    color: white;
+    position:absolute;
+    margin:10% 24% ;
+    font-size:13px
+}
+#signin-label3
+{
+    color: white;
+    position:absolute;
+    margin:10% 23.5% ;
+    font-size:13px
+}
